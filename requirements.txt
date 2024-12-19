@@ -111,6 +111,7 @@ nltk==3.9.1
 notebook==7.0.3
 notebook_shim==0.2.3
 Nuitka==2.4.11
+numpy==1.26.4
 numpy==2.0.0
 openai==1.57.3
 ordered-set==4.1.0
